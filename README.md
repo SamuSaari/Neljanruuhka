@@ -1,13 +1,6 @@
-# Pohja Ohjelmointi 1 -kurssin harjoitustöiden GIT-repoille.
+# Jyväskylän yliopiston ohjelmointi 1 kurssin lopputyö.
 
-Tämä on pohja Ohjelmointi 1 -kurssin harjoitustöiden Git-repoille. 
-Opiskelija forkkaa tämän repon omaa harjoitustyötään varten. 
-`fork`-toiminto löytyy sivun yläreunasta.
-
-Muokkaa gitlab.jyu.fi-palvelussa oman projektisi asetuksia, kuten projektin nimeä
-ja projektin kuvausta kohdasta Settings. 
-
-Lue Git-versiohallinnan tarkemmat käyttöohjeet TIMistä: <https://tim.jyu.fi/view/kurssit/tie/ohj1/harjoitustyo/git>
+Tiedostot ovat kloonattu gitlab palvelusta, alkuperäinen linkki https://gitlab.jyu.fi/saelsaar/ohj1ht
 
 Credits
 Valikon musiikki https://www.dl-sounds.com/royalty-free/my-fruity-loop/   Royalty Free
