@@ -1,8 +1,8 @@
-# Jyväskylän yliopiston ohjelmointi 1 kurssin lopputyö.
+# University of Jyväskylä, Programming 1 course final project.
 
-Tiedostot ovat kloonattu gitlab palvelusta, alkuperäinen linkki https://gitlab.jyu.fi/saelsaar/ohj1ht
+Files are cloned from gitlab site, original link: https://gitlab.jyu.fi/saelsaar/ohj1ht
 
-Credits
+Credits:
 Valikon musiikki https://www.dl-sounds.com/royalty-free/my-fruity-loop/   Royalty Free
 Pelin musiikki https://www.dl-sounds.com/royalty-free/tipple-chipper/    Royalty Free
 Auton malli: https://pixabay.com/vectors/racing-car-ferrari-red-top-view-296772/ Free for commercial use
